@@ -1,0 +1,16 @@
+{
+  "name": "humanitarian_bot",
+  "version": "1.0.0",
+  "description": "Telegram bot which help find volunter and help for people",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MaIOSerfI3unny",
+  "license": "ISC",
+  "dependencies": {
+    "config": "^3.3.7",
+    "mongoose": "^6.2.4",
+    "node-telegram-bot-api": "^0.56.0"
+  }
+}

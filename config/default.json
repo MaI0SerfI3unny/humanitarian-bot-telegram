@@ -1,0 +1,4 @@
+{
+  "mongoUri": "mongodb://localhost:27017/Humanitarian",
+  "API_TELEGRAM_BOT": "5216345706:AAGGLxjk5tvFgVXwQjswD2ZI1h17sh7BEH8"
+}
